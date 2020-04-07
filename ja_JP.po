@@ -789,7 +789,7 @@ msgid "草稿"
 msgstr "下書き"
 
 msgid "隐藏"
-msgstr "表示させない"
+msgstr "表示しない"
 
 #, php-format
 msgid "编辑 %s"
@@ -818,7 +818,7 @@ msgid "私密"
 msgstr "プライベート"
 
 msgid "密码保护"
-msgstr "パスワードを保存する"
+msgstr "パスワード保護"
 
 msgid "没有任何文章"
 msgstr "文章がない"
@@ -930,10 +930,10 @@ msgid ""
 msgstr ""
 
 msgid "个人资料"
-msgstr "個人資料"
+msgstr "個人情報"
 
 msgid "撰写设置"
-msgstr "設定を書く"
+msgstr "書き設定"
 
 msgid "密码修改"
 msgstr "パスワードを変更"
@@ -984,7 +984,7 @@ msgstr "このプログラムは、システムを<strong>%s</strong>から<stro
 
 #, php-format
 msgid "在升级之前强烈建议先<a href=\"%s\">备份您的数据</a>"
-msgstr "アップグレードする前に<a href=\"%s\">をバックアップすることが強くおすすめします"
+msgstr "アップグレードする前に<a href=\"%s\">をミラーリングすることが強く推薦します"
 
 msgid "完成升级 &raquo;"
 msgstr "アップグレードが完了しました &raquo;"
@@ -994,7 +994,7 @@ msgid "欢迎您使用 \"%s\" 管理后台: "
 msgstr "\"%s\"の管理ページへようこそ "
 
 msgid "强烈建议更改你的默认密码"
-msgstr "デフォルトパスワードの変更を強くお勧めします"
+msgstr "デフォルトパスワードの変更を強く推薦します"
 
 msgid "撰写第一篇日志"
 msgstr "最初のブログを書く"
@@ -1003,7 +1003,7 @@ msgid "查看我的站点"
 msgstr "サイトを確認する"
 
 msgid "让我直接开始使用吧 &raquo;"
-msgstr "このままで使います &raquo;"
+msgstr "このままで使いましょう &raquo;"
 
 msgid "现在"
 msgstr "現在"
@@ -1072,25 +1072,25 @@ msgid "星期六"
 msgstr "土曜日"
 
 msgid "周日"
-msgstr "日曜日"
+msgstr "日曜"
 
 msgid "周一"
-msgstr "月曜日"
+msgstr "月曜"
 
 msgid "周二"
-msgstr "火曜日"
+msgstr "火曜"
 
 msgid "周三"
-msgstr "水曜日"
+msgstr "水曜"
 
 msgid "周四"
-msgstr "木曜日"
+msgstr "木曜"
 
 msgid "周五"
-msgstr "金曜日"
+msgstr "金曜"
 
 msgid "周六"
-msgstr "土曜日"
+msgstr "土曜"
 
 msgid "日"
 msgstr "日"
@@ -1114,7 +1114,7 @@ msgid "六"
 msgstr "土"
 
 msgid "完成"
-msgstr "完成"
+msgstr "完了"
 
 msgid "选择时间"
 msgstr "時間を選ぶ"
@@ -1144,10 +1144,10 @@ msgid "此标签不存在, 按回车创建"
 msgstr "このラベルは存在しません。Enterキーを押すと新規作成します"
 
 msgid "已保存"
-msgstr "これを保存"
+msgstr "保存しました"
 
 msgid "正在保存"
-msgstr "正しく保存されました"
+msgstr "保存中"
 
 msgid "尚未保存"
 msgstr "まだ保存されていません"
@@ -1178,7 +1178,7 @@ msgid "页面内容"
 msgstr "ページ内容"
 
 msgid "取消预览"
-msgstr "プレビューしない"
+msgstr "プレビューしをキャンセル"
 
 msgid "预览页面"
 msgstr "プレビュー画面"
@@ -1187,7 +1187,7 @@ msgid "保存草稿"
 msgstr "下書きを保存"
 
 msgid "发布页面"
-msgstr "公開画面"
+msgstr "ページを発表"
 
 msgid "选项"
 msgstr "オプション"
@@ -1460,7 +1460,7 @@ msgid "其它"
 msgstr "その他"
 
 msgid "进入后台"
-msgstr "背景を入力"
+msgstr "管理界面"
 
 msgid "文章 RSS"
 msgstr "記事 RSS"
@@ -1524,7 +1524,7 @@ msgid "Y年m月d日"
 msgstr "Y年m月d日"
 
 msgid "禁止访问"
-msgstr "訪れられません"
+msgstr "アクセス禁止"
 
 msgid "聚合页不存在"
 msgstr "集約ページが存在しません"
@@ -1608,7 +1608,7 @@ msgid "必须填写电子邮箱地址"
 msgstr "メールアドレスの入力が必要です"
 
 msgid "邮箱地址不合法"
-msgstr "メールアドレスの形式がおかしいです"
+msgstr "メールアドレスの形式が間違いです"
 
 msgid "电子邮箱最多包含150个字符"
 msgstr "メールアドレスは最大150字までです"
@@ -1617,7 +1617,7 @@ msgid "必须填写个人主页"
 msgstr "個人ページが必要です"
 
 msgid "个人主页地址格式错误"
-msgstr "個人ページのアドレスの形式がおかしいです"
+msgstr "個人ページのアドレスの形式が間違いです"
 
 msgid "个人主页地址最多包含255个字符"
 msgstr "個人ページのアドレスは最大150字までです"
@@ -1869,7 +1869,7 @@ msgid "是否允许注册"
 msgstr "登録の許可"
 
 msgid "权限不足"
-msgstr "権限が足りていません"
+msgstr "権限が足りません"
 
 msgid "无法登陆, 密码错误"
 msgstr "パスワードは合っていないため、ログインできません"
